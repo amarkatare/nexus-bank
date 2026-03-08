@@ -119,7 +119,7 @@ function renderLoginPage() {
           Don't have an account? <a class="text-link" onclick="showPage('signup')">Create Account</a>
         </div>
         <div style="text-align:center; margin-top:28px; padding-top:20px; border-top:1px solid var(--border);">
-          <p style="font-size:12px; color:var(--text-muted); letter-spacing:0.3px;">Crafted with &#10084;&#65039; by <span style="color:var(--gold-400); font-weight:600;">Amar Katare</span></p>
+          <p style="font-size:12px; color:var(--text-muted); letter-spacing:0.3px;">Crafted by <span style="color:var(--gold-400); font-weight:600;">Amar Katare</span></p>
         </div>
       </div>
     </div>
